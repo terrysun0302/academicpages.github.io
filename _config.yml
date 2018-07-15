@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Sun"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "Ph.D.@UoR"
