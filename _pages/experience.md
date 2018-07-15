@@ -11,12 +11,12 @@ author_profile: true
 * B.S. in Statistics, Southwestern University of Finance and Economics, 2014
 
 ## Work Experience
-* Statistical scientist, Intern, Genentech, 2017 Summer
+* Statistical Scientist, Intern, Genentech, 2017 Summer
   * Explored methods to separate process variation and assay variation in manufacturing data.
   
 ## Research Experience
-* Research Assistant, 2017 - Present. 
-  * University of Rochester
+* Research Assistant, University of Rochester, 2017 - Present
+* Statistical Consultant, University of Rochester Medical Center, 2017 - Present
 
 ## Teaching Experience
 * Teaching Assistant, University of Rochester
