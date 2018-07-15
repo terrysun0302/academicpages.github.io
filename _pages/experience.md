@@ -5,13 +5,13 @@ permalink: /experience/
 author_profile: true
 ---
 
-Education
+## Education
 ======
 * Ph.D in Statistics, University of Rochester, 2019 (expected)
 * M.S. in Statistics, University of Rochester, 2015
 * B.S. in Statistics, Southwestern University of Finance and Economics, 2014
 
-Experience
+## Experience
 ======
 * 2017 - Present: Research Assistant
   * University of Rochester
@@ -22,11 +22,3 @@ Experience
 * 2015 - 2017 : Teaching Assistant
   * University of Rochester
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
