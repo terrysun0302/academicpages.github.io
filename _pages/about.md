@@ -18,8 +18,8 @@ Prior to joining University of Rochester, I received my B.S. degree of Statistic
 
 Contact
 ======
-University of Rochester
-Saunders Research Building
-265 Crittenden Blvd.
-Rochester, NY 14642
-Email: hao_sun@urmc.rochester.edu
+University of Rochester<br>
+Saunders Research Building<br>
+265 Crittenden Blvd.<br>
+Rochester, NY 14642<br>
+Email: hao_sun[at]urmc.rochester.edu
