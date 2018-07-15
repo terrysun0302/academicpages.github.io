@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Experience"
-permalink: /Experience/
+permalink: /experience/
 author_profile: true
 ---
 
@@ -13,13 +13,16 @@ Education
 * M.S. in Statistics, University of Rochester, 2015
 * B.S. in Statistics, Southwestern University of Finance and Economics, 2014
 
-Work experience
+Experience
 ======
 * 2017 - Present: Research Assistant
   * University of Rochester
 
 * 2017 summer: Statistical scientist internship
   * Genentech
+  
+* 2015 - 2017 : Teaching Assistant
+  * University of Rochester
   
 Skills
 ======
