@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Sun"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hao Sun"
 description              : &description "Ph.D.@UoR"
@@ -84,7 +84,7 @@ author:
   location         : "Rochester, NY"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "hao_sun@urmc.rochester.edu"
+  email            :  &email "hao_sun@urmc.rochester.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "terrysun0302"
+  github           : &github "terrysun0302"
   google_plus      :
   keybase          :
   instagram        :
