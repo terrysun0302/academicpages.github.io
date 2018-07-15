@@ -19,13 +19,9 @@ Work experience
 ======
 * 2017 - Present: Research Assistant
   * University of Rochester
- % * Duties included: Tagging issues
- % * Supervisor: Professor Git
 
 * 2017 summer: Statistical scientist internship
   * Genentech
- % * Duties included: Tagging issues
- % * Supervisor: Professor Git
   
 Skills
 ======
