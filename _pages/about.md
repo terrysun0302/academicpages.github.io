@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,3 +14,12 @@ I am a fifth year Ph.D. student in [Statistics](https://www.urmc.rochester.edu/b
 My research interests lie in time-to-event data, semiparametric theory, and causal inference.
 
 Prior to joining University of Rochester, I received my B.S. degree of Statistics in Southwestern University of Finance and Economics, China.
+
+
+Contact
+======
+University of Rochester
+Saunders Research Building
+265 Crittenden Blvd.
+Rochester, NY 14642
+Email: hao_sun@urmc.rochester.edu
