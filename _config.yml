@@ -203,19 +203,19 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Experience
+  # _experience
   - scope:
       path: ""
-      type: Experience
+      type: experience
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _Research
+  # _research
   - scope:
       path: ""
-      type: Research
+      type: research
     values:
       layout: single
       author_profile: true
