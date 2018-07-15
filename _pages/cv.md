@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, Southwestern University of Finance and Economics, 2014
-* M.S. in Statistics, University of Rochester, 2015
 * Ph.D in Statistics, University of Rochester, 2019 (expected)
+* M.S. in Statistics, University of Rochester, 2015
+* B.S. in Statistics, Southwestern University of Finance and Economics, 2014
 
 Work experience
 ======
-* 2017 - Present: Statistical scientist internship
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - Present: Research Assistant
+  * University of Rochester
+ # * Duties included: Tagging issues
+ # * Supervisor: Professor Git
 
 * 2017 summer: Statistical scientist internship
   * Genentech
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+ # * Duties included: Tagging issues
+ # * Supervisor: Professor Git
   
 Skills
 ======
