@@ -5,12 +5,5 @@ permalink: /Research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[Modern variable selection for longitudinal semi-parametric models with missing data]</b><br>
+Kowalski, J., <b>Sun, H.</b>, Chen, T., Liang, Y., Liu, J., Ge, L., Feng, C. and Tu, X.M. <i>Applied Statistics,</i>45(14), 2548-2562, 2018.
