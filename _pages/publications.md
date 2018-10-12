@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 
-<b>[A Forward Regression Approach for Additive Sparse Learning]</b><br>
+<b>A Forward Regression Approach for Additive Sparse Learning. </b>
 <b>Hao Sun. </b><i>In Preparation.</i>
 
-<b>[Analysis of Recurrent and Terminal Events with Temporal Covariate Effects]</b><br>
+<b>Analysis of Recurrent and Terminal Events with Temporal Covariate Effects. </b>
 <b>Hao Sun. </b><i>In Preparation.</i>
 
-<b>[Analysis of Time Varying Coefficient Cox Model with Longitudinal Covariates]</b><br>
+<b>[Analysis of Time Varying Coefficient Cox Model with Longitudinal Covariates]</b>
 <b>Hao Sun. </b><i>In Preparation.</i>
 
 <b>[Mean Outcome Estimation on Treatment with Time-dependent Confounder When Treatment Assignment and Discontinuation Compete]</b><br>
