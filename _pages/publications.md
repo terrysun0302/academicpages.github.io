@@ -1,8 +1,9 @@
 ---
-title: "Research"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 
 <b>[A Forward Regression Approach for Additive Sparse Learning]</b><br>
 <b>Hao Sun. </b><i>In Preparation.</i>
