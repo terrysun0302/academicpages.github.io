@@ -28,3 +28,6 @@ Kowalski, J., Sun, H., Chen, T., Liang, Y., Liu, J., Ge, L., Feng, C. and Tu, X.
 
 <b>Spice up Your Chat: The Intentions and Sentiment Effects of Using Emojis. </b><br>
 Tianran Hu, Han Guo, Hao Sun, Thuy-vy Thi Nguyen, Jiebo Luo. <i>AAAI International Conference on Web and Social Media (ICWSM), </i>45(14), 2017.
+
+<b>Relationships among three popular measures of differential risks: relative risk, risk difference, and odds ratio. </b><br>
+Feng, C., Wang, H., Wang, B., Lu, X., Sun, H., and Tu, X. M. <i>Shanghai Arch Psychiatry, </i>28(1), 56-60, 2016.
