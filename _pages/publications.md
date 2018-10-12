@@ -22,7 +22,7 @@ author_profile: true
 <b>[Improved Locally Efficient Estimation in Marginal Mean Models for Dynamic Regimes: Methods and Application to Adaptive Treatment Length Policies]</b><br>
 <b>Hao Sun</b>, Ashkan Ertefaie, Xin Lu, Brent A. Johnson. <i>Submitted.</i>
 
-<b>[Modern variable selection for longitudinal semi-parametric models with missing data]</b><br>
+<b>[Modern Variable Selection for Longitudinal Semi-parametric Models with Missing Data]</b><br>
 Kowalski, J., <b>Sun, H.</b>, Chen, T., Liang, Y., Liu, J., Ge, L., Feng, C. and Tu, X.M. <i>Applied Statistics, </i>45(14), 2548-2562, 2018.
 
 <b>[Spice up Your Chat: The Intentions and Sentiment Effects of Using Emojis]</b><br>
