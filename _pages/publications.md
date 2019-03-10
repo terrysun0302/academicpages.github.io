@@ -4,11 +4,11 @@ permalink: /research/
 author_profile: true
 ---
 
-<b>FastMix:  A Deconvolution and Hypothesis Testing Pipeline for Gene Expression Analysis with Matching Cellular Data. </b><br>
-Hao Sun, Max Qian, Xing Qiu. <i>In Preparation.</i>
-
 <b>On Estimation of Optimal Treatment Regimes for Maximizing Quality Adjusted Survival Time. </b><br>
 Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>In Preparation.</i>
+
+<b>FastMix:  A Deconvolution and Hypothesis Testing Pipeline for Gene Expression Analysis with Matching Cellular Data. </b><br>
+Hao Sun, Max Qian, Xing Qiu. <i>In Preparation.</i>
 
 <b>A Forward Regression Approach for Additive Sparse Learning. </b><br>
 Hao Sun. <i>In Preparation.</i>
