@@ -4,6 +4,11 @@ permalink: /research/
 author_profile: true
 ---
 
+<b>FastMix:  A Deconvolution and Hypothesis Testing Pipeline for Gene Expression Analysis with Matching Cellular Data. </b><br>
+Hao Sun, Max Qian, Xing Qiu. <i>In Preparation.</i>
+
+<b>On Estimation of Optimal Treatment Regimes for Maximizing Quality Adjusted Survival Time. </b><br>
+Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>In Preparation.</i>
 
 <b>A Forward Regression Approach for Additive Sparse Learning. </b><br>
 Hao Sun. <i>In Preparation.</i>
@@ -15,10 +20,10 @@ Hao Sun. <i>In Preparation.</i>
 Hao Sun. <i>In Preparation.</i>
 
 <b>Mean Outcome Estimation on Treatment with Time-dependent Confounder When Treatment Assignment and Discontinuation Compete. </b><br>
-Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>In Preparation.</i>
+Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>Submitted.</i>
 
 <b>Total Variation Denoising of Coefficient Functionals in the Additive Complementary Log-Log Survival Model. </b><br>
-Hao Sun, Brent A. Johnson. <i>In Preparation.</i>
+Hao Sun, Brent A. Johnson. <i>Submitted.</i>
 
 <b>Improved Locally Efficient Estimation in Marginal Mean Models for Dynamic Regimes: Methods and Application to Adaptive Treatment Length Policies. </b><br>
 Hao Sun, Ashkan Ertefaie, Xin Lu, Brent A. Johnson. <i>Submitted.</i>
