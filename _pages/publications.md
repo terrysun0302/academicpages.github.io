@@ -22,11 +22,11 @@ Hao Sun, Max Qian, Xing Qiu. <i>Submitted.</i>
 <b>Total Partly-constant Varying Coefficient Models for Censored Data. </b><br>
 Hao Sun, Brent A. Johnson. <i>Submitted.</i>
 
-<b>Estimating Mean Potential Outcome Under Adaptive Treatment Length Strategies in Continuous Time. </b><br>
-Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>Submitted.</i>
-
 <b>Improved Locally Efficient Estimation in Marginal Mean Models for Dynamic Regimes: Methods and Application to Adaptive Treatment Length Policies. </b><br>
 Hao Sun, Ashkan Ertefaie, Xin Lu, Brent A. Johnson. <i>Submitted.</i>
+
+<b>Estimating Mean Potential Outcome Under Adaptive Treatment Length Strategies in Continuous Time. </b><br>
+Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>Under revision.</i>
 
 <b>Modern Variable Selection for Longitudinal Semi-parametric Models with Missing Data. </b><br>
 Kowalski, J., Sun, H., Chen, T., Liang, Y., Liu, J., Ge, L., Feng, C. and Tu, X.M. <i>Applied Statistics, </i>45(14), 2548-2562, 2018.
