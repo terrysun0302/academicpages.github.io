@@ -12,10 +12,10 @@ About me
 ======
 I am now a data scientist at Uber. 
 
-I obtained my Ph.D. in [Statistics](https://www.urmc.rochester.edu/biostat.aspx) at University of Rochester in August 2019. My advisor is Prof. [Brent A. Johnson](https://www.urmc.rochester.edu/biostat/people/faculty/johnson.aspx) and [Ashkan Ertefaie](https://www.urmc.rochester.edu/biostat/people/faculty/ertefaie.aspx).
+I obtained my Ph.D. in [Statistics](https://www.urmc.rochester.edu/biostat.aspx) at University of Rochester in August 2019. My advisors are Prof. [Brent A. Johnson](https://www.urmc.rochester.edu/biostat/people/faculty/johnson.aspx) and [Ashkan Ertefaie](https://www.urmc.rochester.edu/biostat/people/faculty/ertefaie.aspx).
 My research interests lie in machine learning and causal inference.
 
-Prior to joining University of Rochester, I received my B.S. degree of Statistics in Southwestern University of Finance and Economics, China.
+Prior to joining University of Rochester, I received my B.S.(Statistics) from Southwestern University of Finance and Economics, China.
 
 
 Contact
