@@ -4,14 +4,14 @@ permalink: /research/
 author_profile: true
 ---
 
-<b>A Forward Regression Approach for Additive Sparse Learning. </b><br>
-Hao Sun. <i>In Preparation.</i>
-
 <b>Analysis of Recurrent and Terminal Events with Temporal Covariate Effects. </b><br>
 Hao Sun. <i>In Preparation.</i>
 
 <b>Analysis of Time Varying Coefficient Cox Model with Longitudinal Covariates. </b><br>
 Hao Sun. <i>In Preparation.</i>
+
+<b>Treatment Allocation under Uncertain Costs. </b><br>
+Hao Sun, Shuyang Du, Stefan Wager. <i>In Preparation.</i>
 
 <b>On Estimation of Optimal Treatment Regimes for Maximizing Quality Adjusted Survival Time. </b><br>
 Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>Submitted.</i>
