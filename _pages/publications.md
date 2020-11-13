@@ -29,7 +29,7 @@ Hao Sun, Ashkan Ertefaie, Xin Lu, Brent A. Johnson. <i>Journal of Causal Inferen
 Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>Under revision.</i>
 
 <b>Modern Variable Selection for Longitudinal Semi-parametric Models with Missing Data. </b><br>
-Kowalski, J., Sun, H., Chen, T., Liang, Y., Liu, J., Ge, L., Feng, C. and Tu, X.M. <i>Applied Statistics, </i>45(14), 2548-2562, 2018.
+Kowalski, J., Sun, H., Chen, T., Liang, Y., Liu, J., Ge, L., Feng, C. and Tu, X.M. <i>Journal of Applied Statistics, </i>45(14), 2548-2562, 2018.
 
 <b>Spice up Your Chat: The Intentions and Sentiment Effects of Using Emojis. </b><br>
 Tianran Hu, Han Guo, Hao Sun, Thuy-vy Thi Nguyen, Jiebo Luo. <i>AAAI International Conference on Web and Social Media (ICWSM), </i>45(14), 2017.
