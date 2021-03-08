@@ -22,11 +22,11 @@ Hao Sun, Max Qian, Xing Qiu. <i>Submitted.</i>
 <b>Total Partly-constant Varying Coefficient Models for Censored Data. </b><br>
 Hao Sun, Brent A. Johnson. <i>Submitted.</i>
 
-<b>Improved Doubly Robust Estimation in Marginal Mean Models for Dynamic Regimes. </b><br>
-Hao Sun, Ashkan Ertefaie, Xin Lu, Brent A. Johnson. <i>Journal of Causal Inference, </i>2020+.
-
 <b>Estimating Mean Potential Outcome Under Adaptive Treatment Length Strategies in Continuous Time. </b><br>
 Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>Under revision.</i>
+
+<b>Improved Doubly Robust Estimation in Marginal Mean Models for Dynamic Regimes. </b><br>
+Hao Sun, Ashkan Ertefaie, Xin Lu, Brent A. Johnson. <i>Journal of Causal Inference, </i>8 (1), 300-314, 2020.
 
 <b>Modern Variable Selection for Longitudinal Semi-parametric Models with Missing Data. </b><br>
 Kowalski, J., Sun, H., Chen, T., Liang, Y., Liu, J., Ge, L., Feng, C. and Tu, X.M. <i>Journal of Applied Statistics, </i>45(14), 2548-2562, 2018.
