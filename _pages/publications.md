@@ -10,14 +10,14 @@ Hao Sun. <i>In Preparation.</i>
 <b>Analysis of Time Varying Coefficient Cox Model with Longitudinal Covariates. </b><br>
 Hao Sun. <i>In Preparation.</i>
 
+<b>FastMix:  A Deconvolution and Hypothesis Testing Pipeline for Gene Expression Analysis with Matching Cellular Data. </b><br>
+Yun Zhang 1* , Hao Sun 2* , Aishwarya Mandava, Brian Aevermann, Tobias Kollmann, Richard H.Scheuermann, Xing Qiu, Yu Qian 1. <i>In Preparation.</i>
+
 <b>Treatment Allocation under Uncertain Costs. </b><br>
 Hao Sun, Shuyang Du, Stefan Wager. <i>Submitted.</i>
 
 <b>On Estimation of Optimal Treatment Regimes for Maximizing Quality Adjusted Survival Time. </b><br>
 Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>Submitted.</i>
-
-<b>FastMix:  A Deconvolution and Hypothesis Testing Pipeline for Gene Expression Analysis with Matching Cellular Data. </b><br>
-Hao Sun, Max Qian, Xing Qiu. <i>Submitted.</i>
 
 <b>Total Partly-constant Varying Coefficient Models for Censored Data. </b><br>
 Hao Sun, Brent A. Johnson. <i>Submitted.</i>
