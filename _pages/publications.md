@@ -11,7 +11,7 @@ Hao Sun. <i>In Preparation.</i>
 Hao Sun. <i>In Preparation.</i>
 
 <b>Treatment Allocation under Uncertain Costs. </b><br>
-Hao Sun, Shuyang Du, Stefan Wager. <i>In Preparation.</i>
+Hao Sun, Shuyang Du, Stefan Wager. <i>Submitted.</i>
 
 <b>On Estimation of Optimal Treatment Regimes for Maximizing Quality Adjusted Survival Time. </b><br>
 Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>Submitted.</i>
@@ -23,7 +23,7 @@ Hao Sun, Max Qian, Xing Qiu. <i>Submitted.</i>
 Hao Sun, Brent A. Johnson. <i>Submitted.</i>
 
 <b>Estimating Mean Potential Outcome Under Adaptive Treatment Length Strategies in Continuous Time. </b><br>
-Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>Under revision.</i>
+Hao Sun, Ashkan Ertefaie, Brent A. Johnson. <i>Biometrics, </i> 2021+
 
 <b>Improved Doubly Robust Estimation in Marginal Mean Models for Dynamic Regimes. </b><br>
 Hao Sun, Ashkan Ertefaie, Xin Lu, Brent A. Johnson. <i>Journal of Causal Inference, </i>8 (1), 300-314, 2020.
