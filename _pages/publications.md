@@ -11,7 +11,7 @@ Hao Sun. <i>In Preparation.</i>
 Hao Sun. <i>In Preparation.</i>
 
 <b>FastMix:  A Deconvolution and Hypothesis Testing Pipeline for Gene Expression Analysis with Matching Cellular Data. </b><br>
-Yun Zhang 1* , Hao Sun 2* , Aishwarya Mandava, Brian Aevermann, Tobias Kollmann, Richard H.Scheuermann, Xing Qiu, Yu Qian 1. <i>In Preparation.</i>
+Yun Zhang* , Hao Sun* , Aishwarya Mandava, Brian Aevermann, Tobias Kollmann, Richard H.Scheuermann, Xing Qiu, Yu Qian. <i>In Preparation.</i>
 
 <b>Treatment Allocation under Uncertain Costs. </b><br>
 Hao Sun, Shuyang Du, Stefan Wager. <i>Submitted.</i>
